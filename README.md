@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhmmadTalhaIrshad
+- 👋 Asslamualikum, I’m @MuhmmadTalhaIrshad
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
